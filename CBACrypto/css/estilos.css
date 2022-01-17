@@ -1,0 +1,29 @@
+body{
+    font-size: 1.2rem;
+    background: #59c173; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #59c173, #a17fe0, #5d26c1); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #59c173, #a17fe0, #5d26c1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.fondo-nav{
+    background: #13151d !important;
+}
+#inicio{
+    background: url("../img/acelerar-crecimiento-negocio-online-644x342.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron{
+    width: 100%;
+    height: 700px;
+    color: rgb(0, 0, 0);
+    padding-top: 400px;
+}
+#nosotros{
+    background: rgb(192, 37, 197);
+}
+
+.video{
+    align-items: center;
+    position: relative; 
+}
